@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm studying Computer Science at University of Melbourne<br>I'm currently learning Machine Learning and WEB Development <br>I'm looking to contribute to MetaBrainz and SugarLabs<br>
+# 💫 Hi, I'm Neelanchal Agarkar!
+I'm studying Computer Science at University of Melbourne<br>I'm currently learning Machine Learning and Web Development <br>I'm looking to contribute to MetaBrainz and SugarLabs<br>
 
 
 ## 🌐 Socials:
