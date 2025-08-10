@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Neelanchal Agarkar!
-📚Studying Computer Science at University of Melbourne<br>🧑‍💻Currently learning Machine Learning and Web Development <br>✨Looking to contribute to amazing open source projects<br>
+Studying Computer Science at University of Melbourne<br>Currently learning Machine Learning and Web Development <br>Looking to contribute to amazing open source projects<br>
 
 
 ## 🌐 Socials:
