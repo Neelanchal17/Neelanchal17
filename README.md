@@ -10,11 +10,6 @@ Studying Computer Science at University of Melbourne
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neelanchal17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neelanchal17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelanchal17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
