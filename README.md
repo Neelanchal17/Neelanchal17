@@ -2,7 +2,7 @@
 Studying Computer Science at University of Melbourne
 
 
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelanchal-agarkar-2905aa234/) 
 
 
